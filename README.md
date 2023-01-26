@@ -29,7 +29,7 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## OUTPUT:
-![output](./circulate.png)
+![output](circulate.png)
 
 ## RESULT:
 Thus the program is successfully executed.
