@@ -20,8 +20,8 @@ print the program
 ## Program:
 ```
 #Program to circulate N values.
-#Developed by: 
-#RegisterNumber:
+#Developed by: joel p
+#RegisterNumber: 22008934
 def circulate():
     l=eval(input())
     n=int(input())
@@ -29,7 +29,7 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## OUTPUT:
-![output](circulate.png)
+![output](./circulate.png)
 
 ## RESULT:
 Thus the program is successfully executed.
